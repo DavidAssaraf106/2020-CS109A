@@ -7,4 +7,8 @@ Tags:  principal components analysis, logistic regression, big data, dimensional
 
 ## Jupyter Notebooks
 
+<<<<<<< HEAD
 - [S-Section 6: PCA and Logistic Regression]({filename}notebook/cs109a_section_6.ipynb)
+=======
+- [S-Section 6: PCA and Logistic Regression]({static}notebook/cs109a_section_6.ipynb)
+>>>>>>> db0bf48de652522ea326414c11e18e60e92a1454
